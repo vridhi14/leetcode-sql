@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/vridhi14/leetcode-sql/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/vridhi14/leetcode-sql/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vridhi14/leetcode-sql/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/vridhi14/leetcode-sql/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/vridhi14/leetcode-sql/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vridhi14/leetcode-sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vridhi14/leetcode-sql/tree/master/1633-percentage-of-users-attended-a-contest) |
