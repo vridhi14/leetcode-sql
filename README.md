@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/vridhi14/leetcode-sql/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/vridhi14/leetcode-sql/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/vridhi14/leetcode-sql/tree/master/1934-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vridhi14/leetcode-sql/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vridhi14/leetcode-sql/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vridhi14/leetcode-sql/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
