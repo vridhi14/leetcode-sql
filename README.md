@@ -32,12 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/vridhi14/leetcode-sql/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/vridhi14/leetcode-sql/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vridhi14/leetcode-sql/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
-## String
-|  |
-| ------- |
-| [0091-decode-ways](https://github.com/vridhi14/leetcode-sql/tree/master/0091-decode-ways) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0091-decode-ways](https://github.com/vridhi14/leetcode-sql/tree/master/0091-decode-ways) |
+
 <!---LeetCode Topics End-->
